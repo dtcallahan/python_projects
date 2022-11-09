@@ -9,8 +9,8 @@ from Peregrine_Suitability_Functions import slopeAspect, reclassAspect
 
 # Set up global variables, and make a list of raster files
 
-data_path = r'C:\Users\conan\Documents\Fall 2021\GIS Programming - GEOG 5092\Final_Project\Data'
-output_path = r'C:\Users\conan\Documents\Fall 2021\GIS Programming - GEOG 5092\Final_Project'
+data_path = r'C:\Users\calladel\Documents\Fall 2021\GIS Programming - GEOG 5092\Final_Project\Data'
+output_path = r'C:\Users\calladel\Documents\Fall 2021\GIS Programming - GEOG 5092\Final_Project'
 
 master_crs = 'epsg:26955'
 
