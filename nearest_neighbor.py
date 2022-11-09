@@ -20,7 +20,7 @@ import geopandas as gpd
 
 random.seed(0)
 
-wkt_path = '/Users/roliveir/Documents/GEOG5092/Fall-2021/week6/data/wtk_conus_100m_mean_masked.tif'
+wkt_path = '/Users/calladel/Documents/GEOG5092/Fall-2021/week6/data/wtk_conus_100m_mean_masked.tif'
 
 sampling_factor = 1/8
 
